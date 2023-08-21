@@ -1,4 +1,4 @@
-# Hi👋! 
+# Hi 👋 
 # I'm Emin, Python-developer 
 
 ## <a href="mailto:bagirov3min@gmail.com" rel="nofollow"> <img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="Gmail" style="max-width: 100%;"></a> Contact me:
