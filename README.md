@@ -1,5 +1,6 @@
 # Hi 👋 
-# I'm Emin, Python-developer 
+# I'm Emin
+# Welcome
 
 ### Languages and Tools:
 <div align="center">
